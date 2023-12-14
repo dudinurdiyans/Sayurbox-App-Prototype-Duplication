@@ -1,4 +1,5 @@
-![Home (3)](https://github.com/dudinurdiyans/Sayurbox-App-Prototype-Duplication/assets/135699744/93b4b2e4-5d5c-46cc-8bcf-741bf5b19faa)
+![Beranda (1)](https://github.com/dudinurdiyans/Sayurbox-App-Prototype-Duplication/assets/135699744/cd06e153-ef1d-4439-b79c-a0364e202e3e)
+
 # Sayurbox Application Prototype Duplication
 
 ## Overview
