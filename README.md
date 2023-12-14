@@ -33,7 +33,7 @@ This repository contains a duplicated prototype design of the Sayurbox applicati
 This project is a duplicated prototype for educational or practice purposes. It is not affiliated with Sayurbox, and the design is for learning purposes only.
 
 ## Figma Links
-- File : https://www.figma.com/file/dPqqiEqybqwwItRY4Pno0q/Project-HCI-Kel-2?type=design&node-id=0-1&mode=design&t=PEd6FmuDxIZiWO0J-0](https://www.figma.com/file/hp8v09EzaI3ns3cQ7A9ACA/Pengembangan-Fitur-%22Masakin%22-Sayurbox---Kelompok-3-ISPM-A-HY?type=design&mode=design&t=PEd6FmuDxIZiWO0J-0
+- File : https://www.figma.com/file/hp8v09EzaI3ns3cQ7A9ACA/Pengembangan-Fitur-%22Masakin%22-Sayurbox---Kelompok-3-ISPM-A-HY?type=design&mode=design&t=PEd6FmuDxIZiWO0J-0
 - Prototype : https://www.figma.com/proto/hp8v09EzaI3ns3cQ7A9ACA/Pengembangan-Fitur-%22Masakin%22-Sayurbox---Kelompok-3-ISPM-A-HY?type=design&t=PEd6FmuDxIZiWO0J-0&scaling=scale-down&page-id=0%3A1&node-id=1-3&starting-point-node-id=1%3A3&show-proto-sidebar=1
 
 Feel free to contribute or raise issues for improvements!
